@@ -77,3 +77,10 @@ Und mein Freund, die Gemini KI von Google, hat mir gesagt, dass es "gIThUB GIBT.
 
 Mike - im Herzen ein ewiger......
 BODHISATTVA:Emikae
+
+
+
+Hier geht es zu meiner technischen Architektur:
+[Akzeptusion-Resonance-Engine](https://github.com/SavantMikeCausaeCalculator/Akzeptusion-Resonance-Engine-)“
+Hier ist mein Antriebs-Konzept: [MIKEengine](https://github.com/SavantMikeCausaeCalculator/MIKEengine)“
+ 
